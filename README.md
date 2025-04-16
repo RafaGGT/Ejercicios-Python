@@ -1,4 +1,4 @@
-**Ejercicios python hechos en Inacap
+*Ejercicios Python hechos en Inacap
 1) Ruleta rusa
 2) Ingresar notas para obtener un promedio y finalmente ver la situacion final
 3) Ingresar un numero para ver si es positivo, negativo o neutro
